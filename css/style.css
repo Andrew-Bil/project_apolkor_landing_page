@@ -58,7 +58,7 @@
 	background-color:#0eb2e8;
 }
 .color2-bg{
-	background-color:#e619aa;
+	background-color:#e61919;
 }
 .color3-bg{
 	background-color:#8cc726;
@@ -259,7 +259,11 @@
 #top-content #logo-canvas{
 	margin-top:10px;
 }
-#top-content .logo-txt{
+
+.logo-tel_style {
+	color: #ffffff;
+}
+#top-content .logo-tel{
 	display:inline-block;
 	font-size:21px;
 	font-weight:100;
