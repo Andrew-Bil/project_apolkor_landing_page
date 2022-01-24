@@ -269,7 +269,7 @@
 	font-weight:100;
 	text-transform:uppercase;
 	height: 50px;
-	position: absolute;
+	position: fixed;
 	margin-top: 10px;
 	padding-top: 11px;
 }
