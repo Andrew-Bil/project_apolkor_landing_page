@@ -43,7 +43,7 @@
 	background-color:#35303e;
 }
 .accent-color-text{
-	color:#4d2692;
+	color:#35303e;
 }
 .accent-color-border{
 	border-color:#4d2692;
@@ -98,7 +98,7 @@
 	font-size:28px;
 	margin-top:30px;
 	margin-bottom:30px;
-	font-weight:100;
+	font-weight:400;
 }
 .row-sub-title{
 	font-size:21px;
@@ -204,6 +204,18 @@
 }
 .inline-menu .close-btn{
     display: none;
+}
+.phone-menu{
+	display: inline-flexbox;
+}
+.phone-menu a {
+	display: block;
+	font-size: 21px;
+	font-weight: 400;
+	color: #ffffff;
+	position: absolute;
+	padding-top: 20px;
+	padding-left: 170px;
 }
 /*------- End Menu Styles ---------*/
 
@@ -492,7 +504,7 @@
 }
 #features .feature-button .feature-title{
 	color:#ffffff;
-	font-size:16px;
+	font-size:14px;
 	text-transform:uppercase;
 }
 #features .feature-button .feature-line{
@@ -612,7 +624,7 @@
 }
 .f-details .feature-title{
 	color:#ffffff;
-	font-size:16px;
+	font-size:14px;
 	text-transform:uppercase;
 }
 .f-details .feature-text{
@@ -621,6 +633,10 @@
 	margin-top:45px;
 }
 
+.feature-text-p {
+	color:#252222;
+	font-size:18px;
+}
 /*------------------------------------------------------------------
 	5. Pricing Styles
 -------------------------------------------------------------------*/
